@@ -48,6 +48,7 @@ Scroll Animation and Button Click:
 
 Challenge: Implementing smooth scroll animations when clicking on buttons and ensuring the correct button gets highlighted based on the scroll position.
 Solution: Utilized JavaScript to handle button clicks, initiate smooth scrolling, and update button styles based on the scroll position. This involved calculating the position of elements on the page.
+
 Code Organization and Readability:
 
 Challenge: Maintaining clean and organized code for better readability and ease of maintenance.
